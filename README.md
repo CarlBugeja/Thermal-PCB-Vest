@@ -1,6 +1,6 @@
 # Ping-Pong-LED-Ball
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/5iIn6wOLhv4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Thermal-PCB-Vest](https://img.youtube.com/vi/tXHaDFTkjc0/0.jpg)](https://www.youtube.com/watch?v=tXHaDFTkjc0.)
 
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
