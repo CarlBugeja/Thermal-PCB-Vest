@@ -1,7 +1,6 @@
-# Ping-Pong-LED-Ball
+# Thermal PCB Vest
 
 [![Thermal-PCB-Vest](https://img.youtube.com/vi/tXHaDFTkjc0/0.jpg)](https://www.youtube.com/watch?v=tXHaDFTkjc0.)
-
 
 Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
